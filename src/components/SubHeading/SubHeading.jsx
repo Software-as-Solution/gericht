@@ -1,4 +1,5 @@
 import { images } from "../../constants";
+import React from "react";
 
 const SubHeading = ({ title }) => {
   return (

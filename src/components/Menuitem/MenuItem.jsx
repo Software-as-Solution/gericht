@@ -1,4 +1,5 @@
 import "./MenuItem.css";
+import React from "react";
 
 const MenuItem = ({ title, price, tags }) => {
   return (
